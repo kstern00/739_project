@@ -1,0 +1,72 @@
+English,9,English 9 A,0001
+English,9,English 9 B,0002 
+English,9,English 9 A Pre- AP,0060
+English,9,English 9 B Pre- AP,0061
+Social Studies,9,World Studies 9 A,1110
+Social Studies,9,World Studies 9 B,1111 
+Social Studies,9,AP Human Geography A,1100
+Social Studies,9,AP Human Geography B,1101
+Social Studies,9,AP Human Geography C,1099
+Science,9,Science 9 A,2505
+Science,9,Science 9 B,2506
+Science,9,AP Environmental Sci A,2226
+Science,9,AP Environmental Sci B,2227
+Science,9,AP Environmental Sci C,2228
+Math,9,Intermediate Algebra A,3210
+Math,9,Intermediate Algebra B,3211
+Math,9,Intermediate Algebra C,3212
+Math,9,Geometry A,3220
+Math,9,Geometry B,3221
+Math,9,Geometry C,3222
+Math,9,Pre-AP Geometry A,3076
+Math,9,Pre-AP Geometry B,3077
+Math,9,Pre-AP Advanced Algebra A,3178
+Math,9,Pre-AP Advanced Algebra B,3179
+Physical Education,9,Physical Education 1,4402
+English,10,English 10 A,0003
+English,10,English 10 B,0004
+English,10,English 10 A Pre- AP,0062
+English,10,English 10 B Pre- AP,0063
+Social Studies,10,World Studies 10 A,1114
+Social Studies,10,World Studies 10 B,1115
+Social Studies,10,AP World History A,1102
+Social Studies,10,AP World History B,1103
+Social Studies,10,AP World History C,1104
+Science,10,Biology A,2103
+Science,10,Biology B,2104
+Science,10,Pre- AP Biology A,2108
+Science,10,Pre- AP Biology B,2109
+Health,10,Health 10,4501
+Health,10,Health 10 Hybrid,4518
+Physical Education,10,Physical Education 2,4504
+English,11,American Short Stories; Composition,0035
+English,11,American Short Stories; Composition,0102
+English,11,Themes in American Lit.; Advanced Comp.,0009
+English,11,Themes in American Lit.; Advanced Comp.,0015
+English,11,AP American Lit: Lang Comp A,0010
+English,11,AP American Lit: Lang Comp B,0011
+English,11,AP American Lit: Lang Comp C,0012
+Social Studies,11,American Histories A,1005
+Social Studies,11,American Histories B,1006
+Social Studies,11,American History through an African American Lens A,1081
+Social Studies,11,American History through an African American Lens B,1082
+Social Studies,11,AP United States History A,1107
+Social Studies,11,AP United States History B,1108
+Social Studies,11,AP United States History C,1109
+English,12,English 12: Practical Applications for Reading and communication skills,0103
+English,12,Legends & Short Stories,0049
+English,12,Critical Reading,0025
+English,12,Literature & Mythology,0029
+English,12,Memoir,0038
+English,12,Dramatic Literature,0032
+English,12,CIS Modern Lit,0043
+Humanities,12,AP Lit and Comp A,0050
+Humanities,12,AP Lit and Comp B,0051
+Humanities,12,AP Lit and Comp C,0052
+Social Studies,12,American Government,1065
+Social Studies,12,AP US Government and Politics A,1105
+Social Studies,12,AP US Government and Politics B,1106
+Social Studies,12,Economics,1009
+Social Studies,12,AP Microeconomics A,1003
+Social Studies,12,AP Microeconomics B,1004
+Physical Education,12,Physical Education 2,4504

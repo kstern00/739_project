@@ -1,0 +1,1092 @@
+Advanced Algebra,Algebra II,104,Math,1.000
+Advanced Algebra,Algebra IIA Honors,3019,Math,1.000
+Advanced Algebra,Algebra 2 Standards B,3024,Math,1.000
+Advanced Algebra,Algebra IIA,3031,Math,1.000
+Advanced Algebra,Algebra IIB,3032,Math,1.000
+Advanced Algebra,Algebra 2A - Three Trimesters,3045,Math,1.000
+Advanced Algebra,Algebra 2B - Three Trimesters,3046,Math,1.000
+Advanced Algebra,Algebra 2C - Three Trimesters,3047,Math,1.000
+Advanced Algebra,Math for Trades A,3051,Math,1.000
+Advanced Algebra,Math for Trades B,3052,Math,1.000
+Advanced Algebra,Algebra 2 Pre AP A,3078,Math,1.000
+Advanced Algebra,Algebra 2 Pre AP B,3079,Math,1.000
+Advanced Algebra,Advanced Algebra A 3 Trimester,3145,Math,1.000
+Advanced Algebra,Adv. Algebra A CO 3T,3145CO,Math,1.000
+Advanced Algebra,Advanced Algebra B 3 Trimester,3146,Math,1.000
+Advanced Algebra,Adv. Algebra B CO 3T,3146CO,Math,1.000
+Advanced Algebra,Advanced Algebra C 3 Trimester,3147,Math,1.000
+Advanced Algebra,Adv. Algebra C CO 3T,3147CO,Math,1.000
+Advanced Algebra,Algebra Advanced Sheltered Content A,3173,Math,1.000
+Advanced Algebra,Algebra Advanced Sheltered Content B,3174,Math,1.000
+Advanced Algebra,Algebra Advanced Sheltered Content C,3176,Math,1.000
+Advanced Algebra,Advanced Algebra PreAP A,3178,Math,1.000
+Advanced Algebra,Advanced Algebra Pre AP B,3179,Math,1.000
+Algebra I,Intermediate Algebra,030,Math,1.000
+Algebra I,Algebra 2B - Three Trimesters,03046,Math,1.000
+Algebra I,Algebra I,031,Math,1.000
+Algebra I,Intermediate Algebra,032,Math,1.000
+Algebra I,Algebra I,103,Math,1.000
+American Government,American Government-AP,1061,Social Studies,1.000
+American Government,American Government,1065,Social Studies,1.000
+American Government,American Government Online,1065L,Social Studies,1.000
+American Government,American Government Honors,1066,Social Studies,1.000
+American Government,US Government&Politics AP A,1105,Social Studies,1.000
+American Government,US Government&Politics AP B,1106,Social Studies,1.000
+American Government,American Government EL,6131065,Social Studies,1.000
+American Government,U.S. Government A,9108,Social Studies,1.000
+American Government,U.S. Government B,9109,Social Studies,1.000
+American History,American History B Connections,0093,Social Studies,1.000
+American History,American Histories A,1005,Social Studies,1.000
+American History,American Histories A Online,1005L,Social Studies,1.000
+American History,American Histories B,1006,Social Studies,1.000
+American History,American Histories B Online,1006L,Social Studies,1.000
+American History,American History AP B,1033,Social Studies,1.000
+American History,Sheltered Content Amer History A,1077,Social Studies,1.000
+American History,Sheltered Content Amer History B,1078,Social Studies,1.000
+American History,American History 11 A Beg/Inter Sheltered Content,1079,Social Studies,1.000
+American History,American History 11 B Beg/inter Sheltered Content,1080,Social Studies,1.000
+American History,US History through African American Lens A,1081,Social Studies,1.000
+American History,US History through African American Lens B,1082,Social Studies,1.000
+American History,United States History AP A,1107,Social Studies,1.000
+American History,United States History AP B,1108,Social Studies,1.000
+American History,United States History AP C,1109,Social Studies,1.000
+American History,American History 11 EL SC A,61380,Social Studies,1.000
+American History,American History 11 EL SC B,61381,Social Studies,1.000
+American History,U.S. History B,9106,Social Studies,1.000
+American Literature 11,Themes in American Literature,0009,English,1.000
+American Literature 11,Themes in American Literature Online,0009L,English,1.000
+American Literature 11,English 11 Fundamentals B: American Short Stories,9216,Special Education,1.000
+Biology,Biology 9 Connections A,2101,Science,1.000
+Biology,Biology 9 Connections B,2102,Science,1.000
+Biology,Biology A,2103,Science,1.000
+Biology,Biology B,2104,Science,1.000
+Biology,Biology Pre AP A,2108,Science,1.000
+Biology,Biology Pre AP B,2109,Science,1.000
+Biology,Biology 10A Connections,2113,Science,1.000
+Biology,Biology A EL 2/3,2113E23,Science,1.000
+Biology,Biology A EL 4/5,2113E45,Science,1.000
+Biology,Biology 10B Connections,2114,Science,1.000
+Biology,Biology AP A,2117,Science,1.000
+Biology,Biology AP B,2118,Science,1.000
+Biology,Biology AP C,2119,Science,1.000
+Biology,Sheltered Content Biology 10:Bgnr/Inter,2120,Science,1.000
+Biology,Sheltered Content Biology10:Bgr/Intermed,2121,Science,1.000
+Biology,Sheltered Content Biology10: Adv/Transit,2122,Science,1.000
+Biology,Sheltered Content Biology 10:Adv/Transit,2123,Science,1.000
+Biology,Biology Accelerated A,2125,Science,1.000
+Biology,Biology Accelerated B,2126,Science,1.000
+Biology,Biology EL A,61374,Science,1.000
+Biology,Biology EL B,61375,Science,1.000
+Biology,Biology EL 4/5 Sheltered Content A,61376,Science,1.000
+Biology,Biology EL 4/5 Sheltered Content B,61377,Science,1.000
+Biology,Biology Fundamentals A,9281,Special Education,1.000
+Biology,Biology Fundamentals B,9282,Special Education,1.000
+Chemistry/Physics,Chemistry A,2213,Science,1.000
+Chemistry/Physics,Chemistry B,2214,Science,1.000
+Chemistry/Physics,Chemistry AP A,2215,Science,1.000
+Chemistry/Physics,Chemistry AP B,2216,Science,1.000
+Chemistry/Physics,"Chemistry, Applied A",2217,Science,1.000
+Chemistry/Physics,"Chemistry, Applied B",2218,Science,1.000
+Chemistry/Physics,Chemistry AP C,2223,Science,1.000
+Chemistry/Physics,Chemistry in the World,2224,Science,1.000
+Chemistry/Physics,General Physics A,2301,Science,1.000
+Chemistry/Physics,General Physics B,2302,Science,1.000
+Chemistry/Physics,Physics A,2313,Science,1.000
+Chemistry/Physics,Physics B,2314,Science,1.000
+Chemistry/Physics,Physics I AP A,2315,Science,1.000
+Chemistry/Physics,Physics I AP B,2316,Science,1.000
+Chemistry/Physics,Physics I AP C,2317,Science,1.000
+Chemistry/Physics,Physics A Honors,2401,Science,1.000
+Chemistry/Physics,Physics B Honors,2402,Science,1.000
+Chemistry/Physics,Physics Pre-AP A,2403,Science,1.000
+Chemistry/Physics,Physics Pre-AP B,2404,Science,1.000
+Chemistry/Physics,Chemistry A,2509,Science,1.000
+Chemistry/Physics,Chemistry B,2510,Science,1.000
+Chemistry/Physics,Chemistry Pre AP A,2511,Science,1.000
+Chemistry/Physics,Chemistry Pre AP B,2512,Science,1.000
+Chemistry/Physics,Chemistry Accelerated A,2520,Science,1.000
+Chemistry/Physics,Chemistry Accelerated B,2521,Science,1.000
+Chemistry/Physics,Chemistry Fundamentals A,9283,Special Education,1.000
+Chemistry/Physics,Chemistry Fundamentals A,9284,Special Education,1.000
+Chemistry/Physics,Chemistry Fundamentals B,9285,Special Education,1.000
+Composition 11,Advanced Composition,0015,English,1.000
+Composition 11,Advanced Composition Online,0015L,English,1.000
+Composition 11,American Short Stories,0035,English,1.000
+Composition 11,Composition Connections,0059,English,1.000
+Composition 11,English 11:Composition A,0102,English,1.000
+Composition 11,English 11 Fundamentals A: Composition,9215,Special Education,1.000
+Composition 11 OR American Literature 11,Am.Lit:Language&Composition AP A,0010,English,1.000
+Composition 11 OR American Literature 11,Am.Lit:Language&Composition AP B,0011,English,1.000
+Composition 11 OR American Literature 11,Am.Lit:Language&Composition AP C,0012,English,1.000
+Composition 11 OR American Literature 11,Sheltered Content  English 11 A,0100,English,1.000
+Composition 11 OR American Literature 11,Sheltered Content English 11 B,0101,English,1.000
+Composition 11 OR American Literature 11,English 11 ALC,072037,English,1.000
+Economics,Microeconomics AP A,1003,Social Studies,1.000
+Economics,Microeconomics AP B,1004,Social Studies,1.000
+Economics,Economics,1009,Social Studies,1.000
+Economics,Economics Online,1009L,Social Studies,1.000
+Economics,Economics EL,6131009,Social Studies,1.000
+Economics OR American Government,Sheltered Content 12 Social Studies,1002,English Language Learner,1.000
+Elective,Career Development ALC,0729293,Special Education,1.000
+Elective,Advancement Via Individual Determination,075,Support Services,0.000
+Elective,Independent Study,090,Support Services,1.000
+Elective,UMTYMP,091,Support Services,1.000
+Elective,Work Experience,09296,Counseling,1.000
+Elective,Our World Then & Now,1007,Social Studies,1.000
+Elective,Sociology I,1008,Social Studies,1.000
+Elective,Psychology I,1017,Social Studies,1.000
+Elective,Psychology I Online,1017L,Social Studies,1.000
+Elective,Psychology II,1018,Social Studies,1.000
+Elective,Sociology Connections,1020,Social Studies,1.000
+Elective,Psychology AP A,1021,Social Studies,1.000
+Elective,Psychology AP B,1022,Social Studies,1.000
+Elective,Philosophy,1025,Social Studies,1.000
+Elective,Current Events/Critical Issues,1026,Social Studies,1.000
+Elective,Psychology AP C,1036,Social Studies,1.000
+Elective,Social Studies Elective 11/12 Connection,1040,Social Studies,1.000
+Elective,World Religions,1060,Social Studies,1.000
+Elective,"Sociology:Race, Class, & Gender",1062,Social Studies,1.000
+Elective,Philosophy Independent Study,1095,Social Studies,1.000
+Elective,History Uncensored,1117,Social Studies,1.000
+Elective,Sociology of Family CIS A,1121,Social Studies,1.000
+Elective,Sociology of Family CIS B,1122,Social Studies,1.000
+Elective,Food Science,2232,Science,0.000
+Elective,Science Bridging,2998,Science,1.000
+Elective,Science Elective,2999,Science,1.000
+Elective,Basic Math  Skills Competency,3000,Math,1.000
+Elective,Integrated Mathematics IA,3003,Math,1.000
+Elective,Integrated Mathematics IB,3004,Math,1.000
+Elective,Algebra Standards A,3005,Math,1.000
+Elective,Algebraic Standards B,3006,Math,1.000
+Elective,Algebraic Standards IIA,3007,Math,1.000
+Elective,Algebraic Standards IIB,3008,Math,1.000
+Elective,Algebra IA,3009,Math,1.000
+Elective,Environmental Science K-6,301,Elementary Grade Level,1.000
+Elective,Algebra IB,3010,Math,1.000
+Elective,Basic Math Standards A,3011,Math,1.000
+Elective,Basic Math Standards B,3012,Math,1.000
+Elective,Algebra II Standards,3013,Math,1.000
+Elective,Geometric & Statistics Standards A,3015,Math,1.000
+Elective,Geometric & Statistics Standards B,3016,Math,1.000
+Elective,Precalculus: Additional Topics,3023,Math,1.000
+Elective,Statistics AP A,3025,Math,1.000
+Elective,Statistics AP B,3026,Math,1.000
+Elective,Calculus AB AP A,3027,Math,1.000
+Elective,Calculus AB AP B,3028,Math,1.000
+Elective,Precalculus A,3029,Math,1.000
+Elective,Precalculus B,3030,Math,1.000
+Elective,Calculus A,3035,Math,1.000
+Elective,Calculus B,3036,Math,1.000
+Elective,"Calculus II, Introduction to",3037,Math,1.000
+Elective,Calculus BC AP C,3038,Math,1.000
+Elective,Statistics and Probability,3039,Math,1.000
+Elective,Statistics and Probability Online,3039L,Math,1.000
+Elective,Calculus BC AP A,3057,Math,1.000
+Elective,Calculus BC AP B,3058,Math,1.000
+Elective,"Java & Web Design, Introduction to",3075,Math,1.000
+Elective,Precalculus Pre AP A,3080,Math,1.000
+Elective,Precalculus Pre AP B,3081,Math,1.000
+Elective,Discrete Mathematics A,3180,Math,1.000
+Elective,Discrete Mathematics B,3181,Math,1.000
+Elective,Precalculus Accelerated A,3230,Math,1.000
+Elective,Precalculus Accelerated B,3231,Math,1.000
+Elective,Pre-College Algebra A,3500,Math,1.000
+Elective,Pre-College Algebra A Online,3500L,Math,1.000
+Elective,Pre-College Algebra B,3501,Math,1.000
+Elective,Pre-College Algebra B Online,3501L,Math,1.000
+Elective,College Algebra A,3502,Math,1.000
+Elective,College Algebra B,3503,Math,1.000
+Elective,Team Activities 9-10,4410,Physical Education,1.000
+Elective,Team Activities 11-12,4411,Physical Education,1.000
+Elective,Strength & Fitness I,4502,Physical Education,1.000
+Elective,Aerobics,4503,Physical Education,1.000
+Elective,Whole Life Fitness/Activities,4505,Physical Education,1.000
+Elective,Aerobics II,4506,Physical Education,1.000
+Elective,Strength & Fitness II,4507,Physical Education,1.000
+Elective,Lifetime Recreational Activities,4513,Physical Education,1.000
+Elective,Lifetime Rec Activ ((ndoor/Wntr&Spring),4515,Physical Education,1.000
+Elective,Physical Education 12,4516,Physical Education,1.000
+Elective,Physical Education 12 Hybrid,4516H,Physical Education,1.000
+Elective,Total Body Conditioning,4520,Physical Education,1.000
+Elective,Mind and Body Connection,4521,Physical Education,1.000
+Elective,Arabic Level 1A,5305,World Language,1.000
+Elective,Arabic Level 1B,5306,World Language,1.000
+Elective,Arabic Level IIA,5307,World Language,1.000
+Elective,Arabic Level IIB,5308,World Language,1.000
+Elective,French I,5310,World Language,2.000
+Elective,French IA,5311,World Language,1.000
+Elective,French IB,5312,World Language,1.000
+Elective,French 2A,5321,World Language,1.000
+Elective,French 2B,5322,World Language,1.000
+Elective,French 3A,5331,World Language,1.000
+Elective,French 3B,5332,World Language,1.000
+Elective,French 4A,5341,World Language,1.000
+Elective,French 4B,5342,World Language,1.000
+Elective,French 5A,5351,World Language,1.000
+Elective,French 5B,5352,World Language,1.000
+Elective,French V Independent Study,5361,World Language,1.000
+Elective,French V Independent Study,5362,World Language,1.000
+Elective,Arabic III A,5370,World Language,1.000
+Elective,Arabic III B,5371,World Language,1.000
+Elective,Arabic for Native Speakers,5375,World Language,1.000
+Elective,German,5410,World Language,2.000
+Elective,German IA,5411,World Language,1.000
+Elective,German IB,5412,World Language,1.000
+Elective,German IIA,5421,World Language,1.000
+Elective,German IIB,5422,World Language,1.000
+Elective,German IIIA,5431,World Language,1.000
+Elective,German IIIB,5432,World Language,1.000
+Elective,German IVA,5441,World Language,1.000
+Elective,German IVB,5442,World Language,1.000
+Elective,German VA,5451,World Language,1.000
+Elective,German VB,5452,World Language,1.000
+Elective,German IV Independent Study,5453,World Language,1.000
+Elective,German IV Independent Study,5454,World Language,1.000
+Elective,German A - College in the Schools,5455,World Language,1.000
+Elective,German B - College in the Schools,5456,World Language,1.000
+Elective,Spanish I,5510,World Language,2.000
+Elective,Spanish IA,5511,World Language,1.000
+Elective,Spanish IB,5512,World Language,1.000
+Elective,Spanish Intermediate,5513,World Language,1.000
+Elective,Spanish Intermediate B,5514,World Language,1.000
+Elective,Spanish Independent Study,5515,World Language,1.000
+Elective,Spanish 2A,5521,World Language,1.000
+Elective,Spanish 2B,5522,World Language,1.000
+Elective,Spanish 2A 3rd tri,5525,World Language,1.000
+Elective,Spanish 3A,5531,World Language,1.000
+Elective,Spanish 3B,5532,World Language,1.000
+Elective,Spanish 3A 3rd Tri,5535,World Language,1.000
+Elective,Spanish 4A,5541,World Language,1.000
+Elective,Spanish 4B,5542,World Language,1.000
+Elective,Espanol para Hispanohablantes A,5543,World Language,1.000
+Elective,Espanol para Hispanohablantes B,5544,World Language,1.000
+Elective,Espanol Para Hispanohablantes 2A,5545,World Language,1.000
+Elective,Espanol Para Hispanohablantes 2B,5546,World Language,1.000
+Elective,Spanish Language & Culture AP A,5551,World Language,1.000
+Elective,Spanish Language & Culture AP A DLI,5551DLI,World Language,1.000
+Elective,Spanish Language & Culture AP B,5552,World Language,1.000
+Elective,Spanish Language & Culture AP B,5552DLI,World Language,1.000
+Elective,Spanish 5,5553,World Language,1.000
+Elective,Spanish 4A,5554,World Language,1.000
+Elective,Spanish 4B,5555,World Language,1.000
+Elective,Spanish College in the Schools C,5556,World Language,1.000
+Elective,Spanish 1004 CIS A,5557,World Language,1.000
+Elective,Spanish 1004 CIS B,5558,World Language,1.000
+Elective,Spanish Language & Culture C AP,5559,World Language,1.000
+Elective,Dual Language Immersion 9A,5560,World Language,1.000
+Elective,Dual Language Immersion 9B,5561,World Language,1.000
+Elective,Dual Language Immersion 9C,5562,World Language,1.000
+Elective,Dual Language Immersion Spanish A,5563,World Language,1.000
+Elective,Dual Language Immersion Spanish B,5564,World Language,1.000
+Elective,Dual Language Immersion Spanish C,5565,World Language,1.000
+Elective,Child Development: Prenatal - Infancy,5604,Family/Consumer Science,1.000
+Elective,Child Development: Toddler-School Age,5605,Family/Consumer Science,1.000
+Elective,Family Studies,5606,Family/Consumer Science,1.000
+Elective,Family Dynamics,5608,Family/Consumer Science,1.000
+Elective,Fashion Merchandising & Design,5609,Family/Consumer Science,1.000
+Elective,Fashion/Clothing Independent Study,5610,Family/Consumer Science,1.000
+Elective,Fashion Merchandising and Design II,5611,Family/Consumer Science,1.000
+Elective,Nutritional Foods,5612,Family/Consumer Science,1.000
+Elective,Today's Chef,5613,Family/Consumer Science,1.000
+Elective,International  Foods,5614,Family/Consumer Science,1.000
+Elective,Senior Foods,5615,Family/Consumer Science,1.000
+Elective,Living on Your Own,5616,Family/Consumer Science,1.000
+Elective,Career Seminar EL A,5616ELA,English Language Learner,1.000
+Elective,EL Career Seminar A Online,5616ELAL,English Language Learner,1.000
+Elective,Career Seminar EL B,5616ELB,English Language Learner,1.000
+Elective,Career Seminar EL B Online,5616ELBL,English Language Learner,1.000
+Elective,Living on Your Own EL C,5616ELC,Family/Consumer Science,1.000
+Elective,Living on Your Own Online,5616L,Family/Consumer Science,1.000
+Elective,Creative Sewing I,5617,Family/Consumer Science,1.000
+Elective,Creative Sewing II,5618,Family/Consumer Science,1.000
+Elective,Teen Life,5619,Family/Consumer Science,1.000
+Elective,Culinary Arts,5620,Family/Consumer Science,1.000
+Elective,Multicultural Approaches to Education,5621,Education,1.000
+Elective,Civil Engineering,5703,Career Technology Education,1.000
+Elective,Exploring Engineering,5704,Career Technology Education,1.000
+Elective,Small Engine Repair III w/ welding,5705,Career Technology Education,1.000
+Elective,Mechanical Drafting/Engineering I,5710,Career Technology Education,1.000
+Elective,Mechanical Drafting/Engineering I Online,5710L,Career Technology Education,1.000
+Elective,Architectural Design/Drafting I,5711,Career Technology Education,1.000
+Elective,Architectural Design/Drafting II,5712,Career Technology Education,1.000
+Elective,Mechanical Drafting/Engineering II,5713,Career Technology Education,1.000
+Elective,Mechanical Drafting/Engineering III,5714,Career Technology Education,1.000
+Elective,Architectural Design/Draft combo 1/11,5715,Career Technology Education,1.000
+Elective,Manufacturing I,5716,Career Technology Education,1.000
+Elective,Manufacturing II,5717,Career Technology Education,1.000
+Elective,Printing I,5720,Career Technology Education,1.000
+Elective,Offset  & Embroidery Print,5721,Career Technology Education,1.000
+Elective,Printing II,5722,Career Technology Education,1.000
+Elective,"Woodworking Level 3,4,5",5729,Career Technology Education,1.000
+Elective,Woodworking I,5730,Career Technology Education,1.000
+Elective,Woodworking II,5731,Career Technology Education,1.000
+Elective,Woodworking III,5732,Career Technology Education,1.000
+Elective,Woodworking IV,5733,Career Technology Education,1.000
+Elective,Woodworking V,5734,Career Technology Education,1.000
+Elective,Woodworking (Female Identifying),5735,Career Technology Education,1.000
+Elective,Advanced Woodworking V,5736,Career Technology Education,1.000
+Elective,Advanced Woodworking VI,5737,Career Technology Education,1.000
+Elective,Small Engine Combined,5739,Career Technology Education,1.000
+Elective,Small Engines I w/welding,5740,Career Technology Education,1.000
+Elective,Small Engines I w/welding (Female Identifying),5741,Career Technology Education,1.000
+Elective,Small Engines II w/welding,5742,Career Technology Education,1.000
+Elective,Small Engine Repair I Sheltered Content,5743,Career Technology Education,1.000
+Elective,Auto Mechanics I,5751,Career Technology Education,1.000
+Elective,Auto Mechanics II,5753,Career Technology Education,1.000
+Elective,Auto Mechanics I (Female identifying),5754,Career Technology Education,1.000
+Elective,"Production ""Raider Grafix""",5755,Career Technology Education,1.000
+Elective,Auto Service Mechanics III,5756,Career Technology Education,1.000
+Elective,Auto Service Mechanics IV,5757,Career Technology Education,1.000
+Elective,T-Shirt Printing,5758,Career Technology Education,1.000
+Elective,Vinyl and Digital Graphics,5767,Career Technology Education,1.000
+Elective,Digital Imagery,5768,Career Technology Education,1.000
+Elective,T-shirt Printing  II,5769,Career Technology Education,1.000
+Elective,Learning the Construction Trades,5781,Career Technology Education,1.000
+Elective,Advanced Construction Trades: Framing to Finish,5782,Career Technology Education,1.000
+Elective,Drone/UAS I,5791,Career Technology Education,1.000
+Elective,Drone/UAS Technology II,5792,Career Technology Education,1.000
+Elective,Know Your Car,5793,Career Technology Education,1.000
+Elective,Know Your Car Online,5793L,Career Technology Education,1.000
+Elective,Auto Detailing,5794,Career Technology Education,1.000
+Elective,Keyboarding for Employment and Business,6000,Business,1.000
+Elective,Accounting I,6017,Business,1.000
+Elective,Accounting II,6018,Business,1.000
+Elective,Managing Your Money,6019,Business,1.000
+Elective,Managing Your Money Online,6019L,Business,1.000
+Elective,Sports & Entertainment Marketing,6024,Business,1.000
+Elective,Web Site Design,6025,Business,1.000
+Elective,Investments,6026,Business,1.000
+Elective,Computer Science AP Principles I,6028,Business,1.000
+Elective,Computer Science AP Principles II,6029,Business,1.000
+Elective,Computer Fundamentals,6030,Business,1.000
+Elective,Microsoft Office,6031,Business,1.000
+Elective,Computer Science AP Principles III,6032,Business,1.000
+Elective,Computer Science AP Java A,6040,Business,1.000
+Elective,Computer Science AP Java B,6041,Business,1.000
+Elective,Introduction to Java Programming,6071,Business,1.000
+Elective,Introduction to Computer Science and Coding,6072,Business,1.000
+Elective,Sales & Entrepreneurship,6100,Business,1.000
+Elective,DECA & Entrepreneurship A,6101,Business,1.000
+Elective,DECA & Entrepreneurship B,6102,Business,1.000
+Elective,English Learner 1: Oral Fluency B,613101,English Language Learner,1.000
+Elective,English Learner 1: Oral Fluency C,613102,English Language Learner,1.000
+Elective,"English Learner Skills 1, 2, 3",61378,English Language Learner,1.000
+Elective,English Learner Science Skills,61379,English Language Learner,1.000
+Elective,French I,8010,World Language,2.000
+Elective,German I,8012,World Language,2.000
+Elective,Espanol Para Hispanohablantes,8013,World Language,2.000
+Elective,Spanish I,8014,World Language,2.000
+Elective,Arabic I,8015,World Language,2.000
+Elective,UMTYMP Math,8036,Math,1.000
+Elective,Post Secondary,9021,Counseling,0.000
+Elective,Post-Secondary,9022,Counseling,0.000
+Elective,Advocacy,9205,Special Education,1.000
+Elective,Fundamental Advocacy,9206,Special Education,1.000
+Elective,Essential Independent Living,9207,Special Education,1.000
+Elective,Fundamental Transition,9208,Special Education,1.000
+Elective,Fundamental Advocacy IIA,9217,Special Education,1.000
+Elective,Fundamental Advocacy IIB,9218,Special Education,1.000
+Elective,Language Lab,9219,English,1.000
+Elective,Language Lab IB,9220,English,1.000
+Elective,Language Lab IIA,9221,English,1.000
+Elective,Language Lab IIB,9222,English,1.000
+Elective,IEP Biological Science B,9224,Science,1.000
+Elective,Speech/Hearing,9225,Special Education,1.000
+Elective,Reading Foundations,9226,English,1.000
+Elective,English Essentials,9229,Special Education,1.000
+Elective,Math Essentials,9230,Special Education,1.000
+Elective,Skills Prep,9231,Special Education,1.000
+Elective,Basic Math,9241,Math,1.000
+Elective,Math Basic Skills B,9242,Math,1.000
+Elective,"Math, Supplemental",9243,Math,1.000
+Elective,Basic Math IIB,9244,Math,1.000
+Elective,Math Concepts 1A,9245,Special Education,1.000
+Elective,Math Concepts 1B,9246,Special Education,1.000
+Elective,CID:Math,9247,Special Education,1.000
+Elective,"Math, Discrete",9248,Special Education,1.000
+Elective,Math for Life and Career A,9249,Special Education,1.000
+Elective,Math for Life and Career B,9250,Special Education,1.000
+Elective,Math Concepts 2 A,9251,Special Education,1.000
+Elective,Math Concepts 2 B,9252,Special Education,1.000
+Elective,IEP Support I,9253,Special Education,0.000
+Elective,Math Concepts 2 C,9254,Special Education,1.000
+Elective,Math for Life and Career C,9255,Special Education,1.000
+Elective,Math Concepts 1 C,9256,Math,1.000
+Elective,Basic Life Skills A,9261,Special Education,1.000
+Elective,Basic Life Skills B,9262,Special Education,1.000
+Elective,Fundamental Social Skills 9-A,9269,Special Education,1.000
+Elective,Fundamental Social Skills 9-B,9270,Special Education,1.000
+Elective,Social Studies Essentials,9271,Special Education,1.000
+Elective,Fundamental Skills I,9272,Special Education,1.000
+Elective,Fundamental Skill  II,9273,Special Education,1.000
+Elective,Science Essentials,9274,Special Education,1.000
+Elective,Fundamental Life Skills A,9277,Social Studies,1.000
+Elective,Fundamental Life Skills B,9278,Special Education,1.000
+Elective,Essential Work Experience,9289,Special Education,1.000
+Elective,Essential Work Experience B,9290,Special Education,1.000
+Elective,Genesys Works OJT,9291,Career & Work Experience,2.000
+Elective,Career Seminar,9293,Special Education,1.000
+Elective,Work Experience Hybrid,9293H,Special Education,1.000
+Elective,Career Seminar B,9294,Special Education,1.000
+Elective,Essential Work Experience OJT,9295,Special Education,0.500
+Elective,Vocational Training - OJT B,9296,Special Education,1.000
+Elective,Work Experience Beginning A,9297,Elementary Grade Level,1.000
+Elective,Work Experience Beginner B,9298,Special Education,1.000
+Elective,Skills Prep,9299,Special Education,1.000
+Elective,Resource,9301,Special Education,1.000
+Elective,IEP Support IB,9302,Special Education,1.000
+Elective,IEP Support IIA,9303,Special Education,1.000
+Elective,IEP Support IIB,9304,Special Education,1.000
+Elective,Vocational Training Seminar,9305,Special Education,1.000
+Elective,Classroom in the Community,9306,Special Education,2.000
+Elective,Basic Work Experience,9307,Special Education,1.000
+Elective,Basic Work Experience B,9308,Special Education,1.000
+Elective,CID Work Experience,9309,Special Education,1.000
+Elective,CID: Social Communication Skills,9310,Special Education,1.000
+Elective,CID: Independent Living,9311,Special Education,1.000
+Elective,CID: Academics,9312,Special Education,1.000
+Elective,Social Skills for Work,9313,Special Education,1.000
+Elective,CID Independent Living,9314,Special Education,1.000
+Elective,Fundamental English A,9318,English,1.000
+Elective,Fundamental English B,9319,English,1.000
+Elective,Basic Community Life Skills,9320,Special Education,2.000
+Elective,Basic Community Life Skills B,9321,Special Education,2.000
+Elective,English Fundamental 9C,9323,Special Education,1.000
+Elective,Fundamental Reading I-B,9324,English,1.000
+Elective,Social Skills I,9330,Special Education,1.000
+Elective,Essential Work Skills 10-12,9331,Special Education,1.000
+Elective,Fundamental Work Skills 9,9332,Special Education,1.000
+Elective,Fundamental Work Skills 10,9333,Special Education,1.000
+Elective,Fundamental Work Skills 11-12,9334,Special Education,1.000
+Elective,Academic Seminar 9,9335,Special Education,1.000
+Elective,Functional Academic Skills,9336,Special Education,1.000
+Elective,Functional Daily Living Skills,9337,Special Education,1.000
+Elective,Social Skills II,9338,Special Education,1.000
+Elective,Social Skills III,9339,Special Education,1.000
+Elective,Academic Reading,9340,Special Education,1.000
+Elective,English Learner: Academic Writing C,9341,Special Education,1.000
+Elective,English CID,9350,English,1.000
+Elective,Math CID,9351,Math,1.000
+Elective,Social Skills CID,9352,Special Education,1.000
+Elective,English Connect,9401,Special Education,1.000
+Elective,REACH English,9402,English,1.000
+Elective,Math Connect,9403,Special Education,1.000
+Elective,REACH Math,9404,Math,1.000
+Elective,FOCUS,9405,Special Education,1.000
+Elective,Social Connect,9406,Special Education,1.000
+Elective,Science Connect,9407,Special Education,1.000
+Elective,VIBE Science B,9408,Science,1.000
+Elective,Social Studies Connect,9409,Special Education,1.000
+Elective,VIBE Social Studies B,9410,Social Studies,1.000
+Elective,Work Skills,9411,Special Education,1.000
+Elective,Work Skills Connect,9412,Special Education,1.000
+Elective,VIBE Vocational English,9413,English,1.000
+Elective,VIBE Vocational English B,9414,English,1.000
+Elective,Life Skills Study,9415,Support Services,1.000
+Elective,Transition Prep,9416,Special Education,1.000
+Elective,Career/College Readiness 9,9417,Special Education,1.000
+Elective,Career/College Readiness 9B,9418,Special Education,1.000
+Elective,Career/College Readiness 9C,9419,Special Education,1.000
+Elective,REACH Vocational Social Studies,9420,Social Studies,1.000
+Elective,REACH Social Studies A,9421,Special Education,1.000
+Elective,REACH Social Studies B,9422,Special Education,1.000
+Elective,REACH Science,9424,Science,1.000
+Elective,Basic Academic,9425,Special Education,1.000
+Elective,Academic Seminar 10,9426,Special Education,1.000
+Elective,College & Career Readiness 10,9427,Special Education,1.000
+Elective,Work Experience - OJT,9545,Career & Work Experience,1.000
+Elective,Work Experience - Online,9545L,Career & Work Experience,1.000
+Elective,Work Experience - OJT B,9546,Social Studies,1.000
+Elective,OJT Work,9555,Social Studies,1.000
+Elective,Career Seminar,9556,Career & Work Experience,1.000
+Elective,Career Seminar Online,9556L,Career & Work Experience,1.000
+Elective,OJT Work,9565,Advisory/NE Metro,1.000
+Elective,OJT Work,9566,Advisory/NE Metro,1.000
+Elective,Internship (OJT) Connections,9567,Business,1.000
+Elective,OJT Serve,9688,Social Studies,1.000
+Elective,OJT Serve,9689,Social Studies,1.000
+Elective,Entrepreneurship & Social Media Marketing A,9750,Advisory/NE Metro,2.000
+Elective,Entrepreneurship & Social Media Marketing B,9751,Advisory/NE Metro,2.000
+Elective,Entrepreneurship & Social Media Marketing C,9752,Advisory/NE Metro,2.000
+Elective,Engineering Project Tools and Design A,9753,Advisory/NE Metro,2.000
+Elective,Engineering Project Tools and Design B,9754,Advisory/NE Metro,2.000
+Elective,Engineering Project Tools and Design C,9755,Advisory/NE Metro,2.000
+Elective,Cosmetology -Esthetician/Skin A,9756,Advisory/NE Metro,2.000
+Elective,Cosmetology Esthetician/Skin B,9757,Advisory/NE Metro,2.000
+Elective,Cosmetolog Esthetician/Skin C,9758,Advisory/NE Metro,2.000
+Elective,Computer Technology A,9759,Advisory/NE Metro,2.000
+Elective,Computer Technology B,9760,Advisory/NE Metro,2.000
+Elective,Computer Technology C,9761,Advisory/NE Metro,2.000
+Elective,Marketing A,9762,Advisory/NE Metro,2.000
+Elective,Marketing B,9763,Advisory/NE Metro,2.000
+Elective,Marketing C,9764,Advisory/NE Metro,2.000
+Elective,E-mentoring,9788,English,1.000
+Elective,Peer Mentor Advanced,9789,Special Education,1.000
+Elective,Mentor Connection/English,9790,English,3.000
+Elective,Mentor Connection English,9791,English,3.000
+Elective,Mentor Connection English,9792,English,3.000
+Elective,Post Secondary,9801,Counseling,0.000
+Elective,Post Secondary - Full Time,9802,Counseling,0.000
+Elective,Aviation and Aerospace A,9803,Advisory/NE Metro,2.000
+Elective,Aviation and Aerospace B,9804,Advisory/NE Metro,2.000
+Elective,Aviation and Aerospace C,9805,Advisory/NE Metro,2.000
+Elective,NE Metro Tech B,9806,Career Technology Education,2.000
+Elective,NE Metro Tech C,9807,Career Technology Education,2.000
+Elective,Air Force Junior ROTC,9808,Advisory/NE Metro,2.000
+Elective,Air Force Junior ROTC,9809,Advisory/NE Metro,2.000
+Elective,Air Force Junior ROTC,9810,Advisory/NE Metro,2.000
+Elective,American Sign Language A,9811,Advisory/NE Metro,1.000
+Elective,American Sign Language B,9812,Advisory/NE Metro,1.000
+Elective,American Sign Language C,9813,Advisory/NE Metro,1.000
+Elective,Animal Science & Natural Resources I,9814,Advisory/NE Metro,2.000
+Elective,Animal Science & Natural Resources II,9815,Advisory/NE Metro,2.000
+Elective,Animal Science & Natural Resources III,9816,Advisory/NE Metro,2.000
+Elective,Collision Repair & Refinishing NE Metro,9817,Advisory/NE Metro,2.000
+Elective,Collision Repair & Refinishing B NE Metro,9818,Advisory/NE Metro,2.000
+Elective,Collision Repair & Refinishing C NE Metro,9819,Advisory/NE Metro,2.000
+Elective,Introduction to Automotive & Welding Careers A,9820,Advisory/NE Metro,2.000
+Elective,Introduction to Automotive & Welding Careers B,9821,Advisory/NE Metro,2.000
+Elective,Introduction to Automotive & Welding Careers C,9822,Advisory/NE Metro,2.000
+Elective,Automotive Technology A,9823,Advisory/NE Metro,2.000
+Elective,Automotive Technology B,9824,Advisory/NE Metro,2.000
+Elective,Automotive Technology C,9825,Advisory/NE Metro,2.000
+Elective,Aviation Program A,9826,Advisory/NE Metro,2.000
+Elective,Aviation Program,9827,Advisory/NE Metro,2.000
+Elective,Maintenance and Environmental Services A,9828,Advisory/NE Metro,2.000
+Elective,Maintenance & Environmental Services B,9829,Advisory/NE Metro,2.000
+Elective,Maintenance and Environmental Services C,9830,Advisory/NE Metro,2.000
+Elective,Careers in Education A,9831,Advisory/NE Metro,2.000
+Elective,Careers in Education B,9832,Advisory/NE Metro,2.000
+Elective,Careers in Education C,9833,Advisory/NE Metro,2.000
+Elective,Computer Aided Drafting A,9834,Advisory/NE Metro,2.000
+Elective,Computer Aided Drafting B,9835,Advisory/NE Metro,2.000
+Elective,Computer Aided Drafting C,9836,Advisory/NE Metro,2.000
+Elective,Computer Hardware/Software/Game Design A,9837,Advisory/NE Metro,2.000
+Elective,Computer Hardware/Software/Game Design B,9838,Advisory/NE Metro,2.000
+Elective,Computer Hardware/Software/Game Design C,9839,Advisory/NE Metro,2.000
+Elective,Construction Occupations A,9840,Advisory/NE Metro,2.000
+Elective,Construction Occupations B,9841,Advisory/NE Metro,2.000
+Elective,Construction Occupations C,9842,Advisory/NE Metro,2.000
+Elective,Construction Trades A,9843,Advisory/NE Metro,2.000
+Elective,Construction Trades B,9844,Advisory/NE Metro,2.000
+Elective,Construction Trades C,9845,Advisory/NE Metro,2.000
+Elective,Cosmetology General A,9846,Advisory/NE Metro,2.000
+Elective,Cosmetology General B,9847,Advisory/NE Metro,2.000
+Elective,Cosmetology General C,9848,Advisory/NE Metro,2.000
+Elective,Criminal Justice & Law Enforcement A,9849,Advisory/NE Metro,2.000
+Elective,Criminal Justice & Law Enforcement B,9850,Advisory/NE Metro,2.000
+Elective,Criminal Justice & Law Enforcement C,9851,Advisory/NE Metro,2.000
+Elective,Dental Careers A,9852,Advisory/NE Metro,2.000
+Elective,Dental Careers B,9853,Advisory/NE Metro,2.000
+Elective,Dental Careers C,9854,Advisory/NE Metro,2.000
+Elective,Emergency Medical Technician A,9855,Advisory/NE Metro,2.000
+Elective,Emergency Medical Technician B,9856,Advisory/NE Metro,2.000
+Elective,Emergency Medical Technician C,9857,Advisory/NE Metro,2.000
+Elective,Food Service,9858,Advisory/NE Metro,2.000
+Elective,Food Service,9859,Advisory/NE Metro,2.000
+Elective,Food Service,9860,Advisory/NE Metro,2.000
+Elective,Design and Digital Media A,9861,Advisory/NE Metro,2.000
+Elective,Design and Digital Media B,9862,Advisory/NE Metro,2.000
+Elective,Design and Digital Media C,9863,Advisory/NE Metro,2.000
+Elective,Mentor Connection (Honors) A,9864,Advisory/NE Metro,2.000
+Elective,Mentor Connection (Honors) B,9865,Advisory/NE Metro,2.000
+Elective,Mentor Connection (Honors) C,9866,Advisory/NE Metro,2.000
+Elective,HVAC Technology A,9867,Advisory/NE Metro,2.000
+Elective,HVAC Technology B,9868,Advisory/NE Metro,2.000
+Elective,HVAC Technology C,9869,Advisory/NE Metro,2.000
+Elective,Information & Telecommunications Tech,9870,Advisory/NE Metro,2.000
+Elective,Information & Telecummunications Tech,9871,Advisory/NE Metro,2.000
+Elective,Information & Telecommunications Tech,9872,Advisory/NE Metro,2.000
+Elective,Introduction to Medical Careers A,9873,Advisory/NE Metro,2.000
+Elective,Introduction to Medical Careers B,9874,Advisory/NE Metro,2.000
+Elective,Introduction to Medical Careers C,9875,Advisory/NE Metro,2.000
+Elective,Motor Sports,9876,Advisory/NE Metro,2.000
+Elective,Motor Sports,9877,Advisory/NE Metro,2.000
+Elective,Motor Sports,9878,Advisory/NE Metro,2.000
+Elective,Project Lead the Way,9879,Advisory/NE Metro,2.000
+Elective,Project Lead the Way,9880,Advisory/NE Metro,2.000
+Elective,Project Lead the Way,9881,Advisory/NE Metro,2.000
+Elective,Prosthetic Technician,9882,Advisory/NE Metro,2.000
+Elective,Prosthetic Technician,9883,Advisory/NE Metro,2.000
+Elective,Prosthetic Technician,9884,Advisory/NE Metro,2.000
+Elective,Practical Assessment & Career Exploration A,9885,Special Education,1.000
+Elective,Practical Assessment & Career Exploration B,9886,Special Education,1.000
+Elective,Practical Assessment & Career Exploration C,9887,Special Education,1.000
+Elective,Diesel Truck & Engine Technology A,9888,Advisory/NE Metro,2.000
+Elective,Diesel Truck & Engine Technology B,9889,Advisory/NE Metro,2.000
+Elective,Diesel Truck & Engine Technology C,9890,Advisory/NE Metro,2.000
+Elective,Automotive and Welding Careers A,9891,Advisory/NE Metro,2.000
+Elective,Automotive and Welding Careers B,9892,Advisory/NE Metro,2.000
+Elective,Automotive and Welding Careers C,9893,Advisory/NE Metro,2.000
+Elective,Honors Medical Careers A,9894,Advisory/NE Metro,2.000
+Elective,Honors Medical Careers B,9895,Advisory/NE Metro,2.000
+Elective,Honors Medical Careers C,9896,Advisory/NE Metro,2.000
+Elective,Youth Apprenticeship A,9897,Advisory/NE Metro,2.000
+Elective,Youth Apprenticeship B,9898,Advisory/NE Metro,2.000
+Elective,Youth Apprenticeship C,9899,Advisory/NE Metro,2.000
+Elective,Study Hall,9900,Counseling,0.000
+Elective,Technology for Educators,9901,Education,1.000
+Elective,Technology for Educators Online,9901L,Education,1.000
+Elective,Class Comm Interaction Disorders,9902,Special Education,0.000
+Elective,UMTYMP Prep,9903,Math,1.000
+Elective,Student Service,9905,Counseling,0.500
+Elective,Student Service,9906,Counseling,0.500
+Elective,Student Service,9907,Counseling,0.500
+Elective,Student Service,9908,Counseling,0.500
+Elective,Peer Mentor,9918,Education,1.000
+Elective,Teacher Assistant,9920,Support Services,0.500
+Elective,Teacher Assistant,9921,Support Services,0.500
+Elective,Teacher Assistant,9922,Support Services,0.500
+Elective,Teacher Assistant,9923,Support Services,0.500
+Elective,Teacher Assistant,9924,Support Services,0.500
+Elective,Teacher Assistant,9925,Support Services,0.500
+Elective,Cosmetology Nail Technician/Esthetician A,9926,Advisory/NE Metro,2.000
+Elective,Cosmetology Nail Technician/Esthetician B,9927,Advisory/NE Metro,2.000
+Elective,Cosmetology Nail Technician/Esthetician C,9928,Advisory/NE Metro,2.000
+Elective,Construction Management A,9929,Advisory/NE Metro,2.000
+Elective,Construction Management B,9930,Advisory/NE Metro,2.000
+Elective,Construction Management C,9931,Advisory/NE Metro,2.000
+Elective,Nursing Assistant 1/Basic Life A,9932,Advisory/NE Metro,2.000
+Elective,Nursing Assistant II/Basic Life B,9933,Advisory/NE Metro,2.000
+Elective,Phlebotomy/Basic Life Support,9934,Advisory/NE Metro,2.000
+Elective,Engineering & Manufacturing A,9935,Advisory/NE Metro,1.000
+Elective,Engineering & Manufacturing B,9936,Advisory/NE Metro,1.000
+Elective,Engineering & Manufacturing C,9937,Advisory/NE Metro,1.000
+Elective,Visual Communications Technologies,9938,Advisory/NE Metro,2.000
+Elective,Visual Communications Technologies,9939,Advisory/NE Metro,2.000
+Elective,Visual Communications Technologies,9940,Advisory/NE Metro,2.000
+Elective,Accounting AP A,9941,Advisory/NE Metro,2.000
+Elective,Accounting AP B,9942,Advisory/NE Metro,2.000
+Elective,Accounting AP C,9943,Advisory/NE Metro,2.000
+Elective,Exploring Therapeutic Services A,9944,Advisory/NE Metro,2.000
+Elective,Exploring Therapeutic Services B,9945,Advisory/NE Metro,2.000
+Elective,Exploring Therapeutic Services C,9946,Support Services,2.000
+Elective,Introduction to Horticulture A,9947,Advisory/NE Metro,2.000
+Elective,Introducation to Horticulture B,9948,Advisory/NE Metro,2.000
+Elective,Introducation to Horticulture C,9949,Advisory/NE Metro,2.000
+Elective,Connections 11 & 12 A,9951,Connections,1.000
+Elective,Connections 11 & 12 B,9952,Connections,1.000
+Elective,Connections 11 & 12 C,9953,Connections,1.000
+Elective,Education and Human Services,9954,Advisory/NE Metro,2.000
+Elective,Education and Human Services A,9955,Advisory/NE Metro,2.000
+Elective,Concurrent Century College Enrollment,9956,Advisory/NE Metro,1.000
+Elective,Academic Seminar,9960,Special Education,1.000
+Elective,AVID 12th A,9961,AVID,1.000
+Elective,AVID 12th B,9962,AVID,1.000
+Elective,AVID 12th C,9963,AVID,1.000
+Elective,Intro to Urban Education,9964,Education,1.000
+Elective,Hospitality Careers Introduction A,9970,Advisory/NE Metro,2.000
+Elective,Hospitality Careers Introduction B,9971,Advisory/NE Metro,2.000
+Elective,Hospitality Careers Introduction C,9972,Advisory/NE Metro,2.000
+Elective,Cosmetology III,9973,Advisory/NE Metro,2.000
+Elective,AVID 9th A,9979,AVID,1.000
+Elective,General Ed Teacher for Center Based Students,998,Unassigned,1.000
+Elective,AVID 9th B,9980,AVID,1.000
+Elective,AVID 9th C,9981,AVID,1.000
+Elective,AVID 11th A,9982,AVID,1.000
+Elective,AVID 11th B,9983,AVID,1.000
+Elective,AVID 11th C,9984,AVID,1.000
+Elective,AVID 10th A,9985,AVID,1.000
+Elective,AVID 10th B,9986,AVID,1.000
+Elective,AVID 10th C,9987,AVID,1.000
+Elective,Case Manager,999,Special Education,0.000
+Elective,Independent Study,9990,Support Services,1.000
+Elective,On Line Learning,9991,Counseling,1.000
+Elective,Skills for Life A,9993,Advisory/NE Metro,2.000
+Elective,Skills for Life B,9994,Advisory/NE Metro,2.000
+Elective,Skills for Life C,9995,Advisory/NE Metro,2.000
+Elective,Connections SWS,9996,Support Services,1.000
+Elective,Driver Education,9997,Support Services,0.500
+Elective,Elective Classes,9998,Support Services,1.000
+English 10,English 10A,0003,English,1.000
+English 10,English 10A Cohort (Schedule ONLY),0003CO,English,1.000
+English 10,English 10B,0004,English,1.000
+English 10,English 10B Cohort (Schedule ONLY),0004CO,English,1.000
+English 10,English 10C,0005,English,1.000
+English 10,English 10C Cohort (Schedule ONLY),0005CO,English,1.000
+English 10,Sheltered Content English 10A,0027,English Language Learner,1.000
+English 10,Sheltered Content  English 10 B,0028,English Language Learner,1.000
+English 10,English 10A Honors,0047,English,1.000
+English 10,English 10 Pre AP A,0062,English,1.000
+English 10,English 10 Pre AP B,0063,English,1.000
+English 10,Sheltered Content Eng 10: Bgnr/Inter A,0064,English,1.000
+English 10,Sheltered Content Eng 10: Bgnr/Inter B,0065,English,1.000
+English 10,Sheltered Content Eng 10: Adv/Transition,0066,English,1.000
+English 10,Sheltered Content Eng 10: Adv/Transition,0067,English,1.000
+English 10,English 10A Connections,0070,English,1.000
+English 10,English 10B Connections,0071,English,1.000
+English 10,English 10C Connections,0072,English,1.000
+English 10,English 10 Accelerated A,0110,English,1.000
+English 10,English 10 Accelerated B,0111,English,1.000
+English 10,English 10 ALC,072036,English,1.000
+English 10,English Fundamental I0A,9211,Special Education,1.000
+English 10,English Fundamental 10B,9212,Special Education,1.000
+English 10,English Fundamental 10C,9232,Special Education,1.000
+English 9,English 9A,0001,English,1.000
+English 9,English 9A CO,0001CO,English,1.000
+English 9,English 9B,0002,English,1.000
+English 9,English 9B CO,0002CO,English,1.000
+English 9,Sheltered Content English 9A,0021,English,1.000
+English 9,Sheltered Content English 9B,0022,English,1.000
+English 9,Sheltered Content Eng 9: Bgnr/Intermed,0055,English,1.000
+English 9,Sheltered Content Eng 9: Bgnr/Intermed,0056,English,1.000
+English 9,Sheltered Content Eng 9: Adv/Transition,0057,English,1.000
+English 9,Sheltered Content Eng 9: Adv/Transition,0058,English,1.000
+English 9,English 9 Pre AP A,0060,English,1.000
+English 9,English 9 Pre AP B,0061,English,1.000
+English 9,English 9A Connections,0078,English,1.000
+English 9,English 9B Connections,0091,English,1.000
+English 9,English 9C Connections,0092,English,1.000
+English 9,English 9C,0104,English,1.000
+English 9,English 9 Accelerated A,0105,English,1.000
+English 9,English 9 Accelerated B,0106,English,1.000
+English 9,English 9 ALC,072035,English,1.000
+English 9,English 9 EL Sheltered Content C,61394,English,1.000
+English 9,English Fundamental 9A,9209,Special Education,1.000
+English 9,English Fundamental 9B,9210,Special Education,1.000
+English 9,English Fundamental 9C,9223,Science,1.000
+English Literature 12 OR Language Arts 12,Critical Reading of Literature,0025,English,1.000
+English Literature 12 OR Language Arts 12,Literature and Mythology,0029,English,1.000
+English Literature 12 OR Language Arts 12,Dramatic Literature,0032,English,1.000
+English Literature 12 OR Language Arts 12,Memoir,0038,English,1.000
+English Literature 12 OR Language Arts 12,Modern Literature College in Schools,0043,English,1.000
+English Literature 12 OR Language Arts 12,Legends and Short Stories,0049,English,1.000
+English Literature 12 OR Language Arts 12,Humanities:Literature & Composition AP A,0050,English,1.000
+English Literature 12 OR Language Arts 12,Humanities:Literature & Composition AP B,0051,English,1.000
+English Literature 12 OR Language Arts 12,Humanities: Lit & Composition AP C,0052,English,1.000
+English Literature 12 OR Language Arts 12,Practical Applications for Reading & Communication,0103,English,1.000
+English Literature 12 OR Language Arts 12,English 12 ALC,072038,English,1.000
+English Literature 12 OR Language Arts 12,Fundamental English 12: Reading,9228,Special Education,1.000
+Fine Art,Band,010,Music,1.000
+Fine Art,Orchestra,013,Music,1.000
+Fine Art,Visual Arts Foundation,4001,Arts,1.000
+Fine Art,Art Through the Ages,4002,Arts,1.000
+Fine Art,Art & Design AP A,4003,Arts,1.000
+Fine Art,Art,4004,Arts,1.000
+Fine Art,Studio Art,4005,Arts,2.000
+Fine Art,Art - Intensive,4006,Arts,1.000
+Fine Art,Art History,4007,Arts,1.000
+Fine Art,Art History A - Advanced Placement,4008,Arts,1.000
+Fine Art,Art History B - Advanced Placement,4009,Arts,1.000
+Fine Art,Art K-6,401,Elementary Specialist,0.000
+Fine Art,Art Exploration,4010,Arts,1.000
+Fine Art,Art Exploration Online,4010L,Arts,1.000
+Fine Art,Jewelry and Printmaking,4011,Arts,1.000
+Fine Art,Painting and Drawing,4012,Arts,1.000
+Fine Art,Painting & Drawing Hybrid,4012H,Arts,1.000
+Fine Art,Pottery,4013,Arts,1.000
+Fine Art,Art & Design AP B,4014,Arts,1.000
+Fine Art,Studio Art Drawing and Painting,4015,Arts,1.000
+Fine Art,Introduction to Clay,4016,Arts,1.000
+Fine Art,Studio Clay,4017,Arts,1.000
+Fine Art,Print Making and Drawing,4018,Arts,1.000
+Fine Art,Sculpture and Metalwork,4020,Arts,1.000
+Fine Art,Art Studio A,4101,Arts,2.000
+Fine Art,Art Studio B,4102,Arts,2.000
+Fine Art,Band 9A,5001,Music,1.000
+Fine Art,Band 9B,5002,Music,1.000
+Fine Art,Band 9C,5003,Music,1.000
+Fine Art,Concert Band 10-11 A,5011,Music,1.000
+Fine Art,Concert Band 10-11 B,5012,Music,1.000
+Fine Art,Concert Band 10-11 C,5013,Music,1.000
+Fine Art,Varsity Band 10-11 A,5021,Music,1.000
+Fine Art,Varsity Band 10-11 B,5022,Music,1.000
+Fine Art,Varsity Band 10-11 C,5023,Music,1.000
+Fine Art,Beginning Band,5024,Music,1.000
+Fine Art,Symphonic Band 12 A,5031,Music,1.000
+Fine Art,Symphonic Band 12 B,5032,Music,1.000
+Fine Art,Symphonic Band 12 C,5033,Music,1.000
+Fine Art,Symphony Orchestra A,5103,Music,1.000
+Fine Art,Symphony Orchestra B,5104,Music,1.000
+Fine Art,Concert Orchestra A,5105,Music,1.000
+Fine Art,Concert Orchestra B,5106,Music,1.000
+Fine Art,Concert Orchestra C,5107,Music,1.000
+Fine Art,Symphony Orchestra C,5109,Music,1.000
+Fine Art,Philharmonic Orchestra A,5110,Music,1.000
+Fine Art,Philharmonic Orchestra B,5111,Music,1.000
+Fine Art,Philharmonic Orchestra C,5112,Music,1.000
+Fine Art,Orchestra A,5115,Music,1.000
+Fine Art,Orchestra B,5116,Music,1.000
+Fine Art,Music Theory I,5191,Music,1.000
+Fine Art,Music Theory II,5192,Music,1.000
+Fine Art,Guitar Methods,5193,Music,1.000
+Fine Art,Guitar Methods B,5194,Music,1.000
+Fine Art,Music Production,5195,Music,1.000
+Fine Art,Music Production Online,5195L,Music,1.000
+Fine Art,Popular Music/Rock Band,5196,Music,1.000
+Fine Art,"Choir, Concert A",5201,Music,1.000
+Fine Art,"Choir, Concert B",5202,Music,1.000
+Fine Art,Band and Choir 10-A,5204,Music,1.000
+Fine Art,"Choir, Concert C",5205,Music,1.000
+Fine Art,"Choir, Treble (Soprano/Alto) A",5207,Music,1.000
+Fine Art,"Choir, Treble (Soprano/Alto) B",5208,Music,1.000
+Fine Art,"Choir, Treble (Soprano/Alto) C",5209,Music,1.000
+Fine Art,Choir 11-12 A,5221,Music,1.000
+Fine Art,Concert Choir B,5222,Music,1.000
+Fine Art,Concert Choir C,5223,Music,1.000
+Fine Art,Band & Choir 9A,5231,Music,1.000
+Fine Art,Band & Choir 9B,5232,Music,1.000
+Fine Art,Band & Choir 9C,5233,Music,1.000
+Fine Art,Orch & Choir 10-A,5234,Music,1.000
+Fine Art,Orchestra & Choir 9A,5235,Music,1.000
+Fine Art,Orchestra & Choir 9B,5236,Music,1.000
+Fine Art,Orchestra & Choir 9C,5237,Music,1.000
+Fine Art,World Music Appreciation,5238,Music,1.000
+Fine Art,"Choir, Bel Canto (Soprano/Alto) A",5246,Music,1.000
+Fine Art,"Choir, Bel Canto (Soprano/Alto) B",5247,Music,1.000
+Fine Art,"Choir, Bel Canto (Soprano/Alto) C",5248,Music,1.000
+Fine Art,"Choir, Cantus Certus A",5249,Music,1.000
+Fine Art,"Choir, Cantus Certus B",5250,Music,1.000
+Fine Art,"Choir, Cantus Certus C",5251,Music,1.000
+Fine Art,Choraliers A,5252,Music,1.000
+Fine Art,Choraliers B,5253,Music,1.000
+Fine Art,Choraliers C,5254,Music,1.000
+Fine Art,Mens Chorale A,5255,Music,1.000
+Fine Art,Mens Chorale B,5256,Music,1.000
+Fine Art,Mens Chorale C,5257,Music,1.000
+Fine Art,World Drumming,5258,Music,1.000
+Fine Art,Band & Orchestra 9A,5260,Music,1.000
+Fine Art,Band & Orchestra 9B,5261,Music,1.000
+Fine Art,Band & Orchestra 9C,5262,Music,1.000
+Fine Art,Music Theory A,5301,Music,1.000
+Fine Art,Interior Design,5607,Family/Consumer Science,1.000
+Fine Art,Graphic Design I,5701,Career Technology Education,1.000
+Fine Art,Graphic Design II,5708,Career Technology Education,1.000
+Fine Art,Turning and Carving,5738,Career Technology Education,1.000
+Fine Art,Photography I,5750,Career Technology Education,1.000
+Fine Art,Photography I Online,5750L,Career Technology Education,1.000
+Fine Art,Intro to Media Arts,5760,Career Technology Education,1.000
+Fine Art,Media Arts II,5766,Career Technology Education,1.000
+Fine Art,Photography III,5783,Career Technology Education,1.000
+Fine Art,Photography II,5785,Career Technology Education,1.000
+Fine Art,Photography IV,5786,Career Technology Education,1.000
+Fine Art,Photography 1 Online Hybrid,5788,Career Technology Education,1.000
+Fine Art,Photography Hybrid I,5790H1,Career Technology Education,1.000
+Fine Art,Photography Hybrid II,5790H2,Career Technology Education,1.000
+Fine Art,Photography Hybrid III,5790H3,Career Technology Education,1.000
+Fine Art,Photography Hybrid IV,5790H4,Career Technology Education,1.000
+Geometry,Geometry 8,035,Math,1.000
+Geometry,Geometry,102,Math,1.000
+Geometry,Geometry A - 2 Trimester,3017,Math,1.000
+Geometry,Geometry B - 2 Trimester,3018,Math,1.000
+Geometry,Geometry A Connections,3020,Math,1.000
+Geometry,Geometry B Connections,3021,Math,1.000
+Geometry,Geometry C Connections,3022,Math,1.000
+Geometry,Geometry A Honors,3033,Math,1.000
+Geometry,Geometry B Honors,3034,Math,1.000
+Geometry,Geometry,3070,Math,2.000
+Geometry,Geometry Pre AP A,3076,Math,1.000
+Geometry,Geometry Pre AP B,3077,Math,1.000
+Geometry,Sheltered Content Geo Bgnr/Intermed,3082,Math,1.000
+Geometry,Sheltered Content Geo Bgn/ Intermed,3083,Math,1.000
+Geometry,Sheltered Content Geo Adv/Tran,3085,Math,1.000
+Geometry,Sheltered Content Geo Adv/Tran,3086,Math,1.000
+Geometry,Geometry A,3220,Math,1.000
+Geometry,Geometry A CO 3T,3220CO,Math,1.000
+Geometry,Geometry A EL 4/5,3220E45,Math,1.000
+Geometry,Geometry A EL 2/3,3220EL23,Math,1.000
+Geometry,Geometry B,3221,Math,1.000
+Geometry,Geometry B CO 3T,3221CO,Math,1.000
+Geometry,Geometry B EL 4/5,3221E45,Math,1.000
+Geometry,Geometry B EL 2/3,3221EL 2/3,Math,1.000
+Geometry,Geometry C,3222,Math,1.000
+Geometry,Geometry C CO 3T,3222CO,Math,1.000
+Geometry,Geometry C EL 4/5,3222E45,Math,1.000
+Geometry,Geometry C EL 2/3,3222EL23,Math,1.000
+Geometry,Geometry Accelerated A,3225,Math,1.000
+Geometry,Geometry Accelerated B,3226,Math,1.000
+Geometry,Geometry EL Sheltered Content A,61353,Math,1.000
+Geometry,Geometry EL Sheltered Content B,61354,Math,1.000
+Geometry,Geometry EL Sheltered Content C,61355,Math,1.000
+Geometry,Geometry EL 4/5 Sheltered Content A,61356,Math,1.000
+Geometry,Geometry EL 4/5 Sheltered Content B,61357,Math,1.000
+Geometry,Geometry EL 4/5 Sheltered Content C,61358,Math,1.000
+Geometry,Geometry Grade 8,8033,Math,2.000
+Geometry,Geometry Fundamentals A,9440,Special Education,1.000
+Geometry,Geometry Fundamentals B,9441,Special Education,1.000
+Geometry,Geometry Fundamentals C,9442,Special Education,1.000
+Health,Health,0724501,Health,1.000
+Health,Health,4501,Health,1.000
+Health,Health Online,4501L,Health,1.000
+Health,Health Online Hybrid,4518H,Health,1.000
+Human Geography 9,Human Geography 9A Connections,0087,Social Studies,1.000
+Human Geography 9,Human Geography 9B Connections,0088,Social Studies,1.000
+Human Geography 9,Sheltered Content Geography 9A,1000,Social Studies,1.000
+Human Geography 9,Sheltered Content Geography 9B,1001,Social Studies,1.000
+Human Geography 9,Geography Connections,1039,Social Studies,1.000
+Human Geography 9,Human Geography 9A,1041,Social Studies,1.000
+Human Geography 9,Human Geography 9B,1042,Social Studies,1.000
+Human Geography 9,World Geography 9A Honors,1043,Social Studies,1.000
+Human Geography 9,World Geography 9-B Honors,1044,Social Studies,1.000
+Human Geography 9,Sheltered Content Hum Geog 9 A:Bgnr/Interm,1069,Social Studies,1.000
+Human Geography 9,Sheltered Content Hum Geog 9 B:Bgnr/Interm,1070,Social Studies,1.000
+Human Geography 9,Sheltered Content Hum Geog 9 A: Adv/Trans,1071,Social Studies,1.000
+Human Geography 9,Sheltered Content Hum Geog 9 B: Adv/Trans,1072,Social Studies,1.000
+Human Geography 9,Human Geography AP  C,1099,Social Studies,1.000
+Human Geography 9,Human Geography AP  A,1100,Social Studies,1.000
+Human Geography 9,Human Geography AP  B,1101,Social Studies,1.000
+Human Geography 9,World Studies 9A,1110,Social Studies,1.000
+Human Geography 9,World Studies 9B,1111,Social Studies,1.000
+Human Geography 9,World Studies 9A Connections,1112,Social Studies,1.000
+Human Geography 9,World Studies 9B Connections,1113,Social Studies,1.000
+Human Geography 9,World Studies 9C Connections,1116,Social Studies,1.000
+Human Geography 9,Human Geography 9 EL 2/3 A,61382,Social Studies,1.000
+Human Geography 9,Human Geography 9 EL 2/3 B,61383,Social Studies,1.000
+Human Geography 9,Human Geography 9 EL 4/5 A,61384,Social Studies,1.000
+Human Geography 9,Human Geography 9 EL 4/5 B,61385,Social Studies,1.000
+Human Geography 9,World Studies 9A EL SC A,61390,Social Studies,1.000
+Human Geography 9,World Studies 9B ELSC B,61391,Social Studies,1.000
+Human Geography 9,World Studies 9A EL 4/5 Sheltered Content,61392,Social Studies,1.000
+Human Geography 9,World Studies 9B EL 4/5 Sheltered Content,61393,Social Studies,1.000
+Intermediate Algebra,Intermediate Algebra,044,Math,1.000
+Intermediate Algebra,Algebra 9A Connections,3001,Math,1.000
+Intermediate Algebra,Algebra 9B Connections,3002,Math,1.000
+Intermediate Algebra,Algebra I Connections A,3062,Math,1.000
+Intermediate Algebra,Algebra I Connections B,3066,Math,1.000
+Intermediate Algebra,Intermediate Algebra,3067,Math,2.000
+Intermediate Algebra,Sheltered Content Algebra 9A,3068,English Language Learner,1.000
+Intermediate Algebra,Sheltered Content Algebra 9B,3069,English Language Learner,1.000
+Intermediate Algebra,Alegbra 1 Beg/intermediate SC,3071,Math,1.000
+Intermediate Algebra,Sheltered Content Alg I: Bgnr/Intermed,3072,Math,1.000
+Intermediate Algebra,Sheltered Content Alg I: Adv/Transition,3073,Math,1.000
+Intermediate Algebra,Sheltered Content Alg I: Adv/Transition,3074,Math,1.000
+Intermediate Algebra,Intermediate Algebra A Two Trimester,3109,Math,1.000
+Intermediate Algebra,Intermediate Algebra B Two Trimester,3110,Math,1.000
+Intermediate Algebra,Intermediate Algebra 1A Connections,3163,Math,1.000
+Intermediate Algebra,Intermediate Algebra 1B Connections,3164,Math,1.000
+Intermediate Algebra,Intermediate Algebra 1C Connections,3165,Math,1.000
+Intermediate Algebra,Inter Algebra A Sheltered Content,3171,Math,1.000
+Intermediate Algebra,Inter Algebra B Sheltered Content,3172,Math,1.000
+Intermediate Algebra,Inter Algebra C Sheltered Content,3175,Math,1.000
+Intermediate Algebra,Intermediate Algebra A Three Trimester,3210,Math,1.000
+Intermediate Algebra,Inter Algebra A CO 3T,3210CO,Math,1.000
+Intermediate Algebra,Intermediate Algebra A EL 2/3,3210E23,Math,1.000
+Intermediate Algebra,Intermediate Algebra A EL 4/5,3210E45,Math,1.000
+Intermediate Algebra,Intermediate Algebra A Three Tri Online,3210L,Math,1.000
+Intermediate Algebra,Intermediate Algebra B Three Trimester,3211,Math,1.000
+Intermediate Algebra,Inter Algebra B CO 3T,3211CO,Math,1.000
+Intermediate Algebra,Intermediate Algebra B EL 2/3,3211E23,Math,1.000
+Intermediate Algebra,Intermediate Algebra B EL 4/5,3211EL45,Math,1.000
+Intermediate Algebra,Intermediate Algebra B Three Tri Online,3211L,Math,1.000
+Intermediate Algebra,Intermediate Algebra C Three Trimester,3212,Math,1.000
+Intermediate Algebra,Inter Algebra C CO 3T,3212CO,Math,1.000
+Intermediate Algebra,Intermediate Algebra C EL 2/3,3212E23,Math,1.000
+Intermediate Algebra,Intermediate Algebra C EL 45,3212EL45,Math,1.000
+Intermediate Algebra,Intermediate Algebra C Three Tri Online,3212L,Math,1.000
+Intermediate Algebra,Intermediate Algebra A Sheltered Content,6133109,Math,1.000
+Intermediate Algebra,Intermediate Algebra B Sheltered Content,6133110,Math,1.000
+Intermediate Algebra,Intermediate Algebra C sheltered content,6133111,Math,1.000
+Intermediate Algebra,Intermediate Algebra EL Sheltered Content A,61359,Math,1.000
+Intermediate Algebra,Intermediate Algebra EL Sheltered Content B,61360,Math,1.000
+Intermediate Algebra,Intermediate Algebra EL Sheltered Content C,61361,Math,1.000
+Intermediate Algebra,Intermediate Algebra EL 4/5 Sheltered Content A,61362,Math,1.000
+Intermediate Algebra,Intermediate Algebra EL 4/5 Sheltered Content B,61363,Math,1.000
+Intermediate Algebra,Intermediate  Algebra EL 4/5 Sheltered Content C,61364,Math,1.000
+Intermediate Algebra,Intermediate Algebra Gr 8,8032,Math,2.000
+Intermediate Algebra,Algebra Fundamentals A,9435,Special Education,1.000
+Intermediate Algebra,Algebra Fundamentals B,9436,Special Education,1.000
+Intermediate Algebra,Algebra Fundamentals C,9437,Special Education,1.000
+Language Arts 12,Interpersonal Communication,0014,English,1.000
+Language Arts 12,Reading Strategies,0017,English,1.000
+Language Arts 12,Chaos and Culture - Quantum,0018,English,1.000
+Language Arts 12,Speech in Performance,0019,English,1.000
+Language Arts 12,Creative Writing,0023,English,1.000
+Language Arts 12,Creative Writing Hybrid,0023H,English,1.000
+Language Arts 12,Drama Workshop I,0024,English,1.000
+Language Arts 12,Public Speaking,0026,English,1.000
+Language Arts 12,Heroes & Mythology Literature,0030,English,1.000
+Language Arts 12,Individual Reading,0031,English,1.000
+Language Arts 12,Yearbook Publications,0033,English,1.000
+Language Arts 12,Journalism Newspaper,0034,English,1.000
+Language Arts 12,Drama Workshop II,0037,English,1.000
+Language Arts 12,Media Studies,0039,English,1.000
+Language Arts 12,Reading Strategies 11-12,0040,English,1.000
+Language Arts 12,Video Productions,0041,English,1.000
+Language Arts 12,Modern Poetry,0053,English,1.000
+Language Arts 12,Journalism,0069,English,1.000
+Language Arts 12,Fundamental English 12,9227,Special Education,1.000
+Language Arts 12 OR Fine Art,Art Of Film,0020,English,1.000
+Physical Education 1,Physical  Education,008,Physical Education,1.000
+Physical Education 1,Physical Education I,4402,Physical Education,1.000
+Physical Education 1 OR Physical Education 2,Physical Education ALC,07206,Physical Education,1.000
+Physical Education 1 OR Physical Education 2,Adaptive Physical Education,9235,Physical Education,1.000
+Physical Education 1 OR Physical Education 2,Adaptive Physical Education,9236,Physical Education,1.000
+Physical Education 2,Physical Education II,4504,Physical Education,1.000
+Science 9,Physical Science A,2001,Science,1.000
+Science 9,Physical Science B,2002,Science,1.000
+Science 9,Survey Physical Science A,2003,Science,1.000
+Science 9,Survey Physical Science B,2004,Science,1.000
+Science 9,Survey of Foundations of Science 9A,2005,Science,1.000
+Science 9,Survey of Foundations of Science 9B,2006,Science,1.000
+Science 9,Forensic Biology,2007,Science,1.000
+Science 9,Accelerated Physical Science,2008,Science,1.000
+Science 9,Sheltered Content  Physical Science  9A,2011,Science,0.000
+Science 9,Sheltered Content Physical Science 9B,2012,Science,1.000
+Science 9,Sheltered Content Phy Sci 9: Bgr/Inter,2013,Science,1.000
+Science 9,Sheltered Content Phy Sci 9: Bgnr/Inter,2014,Science,1.000
+Science 9,Sheltered Content Phy Sci 9: Adv/Trans,2015,Science,1.000
+Science 9,Sheltered Content Phy Sci 9: Adv/Trans,2016,Science,1.000
+Science 9,Accelerated Introduction to Science,2017,Science,1.000
+Science 9,Medical Terminology A,2018,Science,1.000
+Science 9,Medical Terminology B,2019,Science,1.000
+Science 9,Physical Science A Survey Connections,2105,Science,1.000
+Science 9,Physical Science B Survey Connections,2106,Science,1.000
+Science 9,Conservation Biology,2112,Science,1.000
+Science 9,Marine Biology,2115,Science,1.000
+Science 9,Astronomy,2219,Science,1.000
+Science 9,Astronomy & Physics,2220,Science,1.000
+Science 9,Human Organism,2221,Science,1.000
+Science 9,Anatomy & Physiology,2222,Science,1.000
+Science 9,Environmental Science,2225,Science,1.000
+Science 9,Environmental Sci AP A,2226,Science,1.000
+Science 9,Environmental Sci AP B,2227,Science,1.000
+Science 9,Environmental Sci AP C,2228,Science,1.000
+Science 9,Further Topics Science A,2501,Science,1.000
+Science 9,Wildlife Biology,2502,Science,1.000
+Science 9,Introduction to Science - Survey A,2503,Science,1.000
+Science 9,Introduction to Science - Survey B,2504,Science,1.000
+Science 9,Science 9A,2505,Science,1.000
+Science 9,Science 9B,2506,Science,1.000
+Science 9,Environmental Science 9A Connections,2507,Science,1.000
+Science 9,Environmental Science 9B Connections,2508,Science,1.000
+Science 9,Environmental Science 10A Connections,2513,Science,1.000
+Science 9,Environmental Science 10B Connections,2514,Science,1.000
+Science 9,Intro to Science 9 EL Extended,61369,Science,1.000
+Science 9,Science 9 EL A,61370,Science,1.000
+Science 9,Science 9 EL B,61371,Science,1.000
+Science 9,Science 9 EL 4/5 A,61372,Science,1.000
+Science 9,Science 9 EL 4/5 B,61373,Science,1.000
+Science 9,Science 9 Fundamentals A,9275,Special Education,1.000
+Science 9,Science 9 Fundamentals B,9276,Special Education,1.000
+World History 10,World History 10B Connections,0090,Social Studies,1.000
+World History 10,World History 10A Connections,0094,Social Studies,1.000
+World History 10,World Geography 10A,1045,Social Studies,1.000
+World History 10,World Geography 10-B,1046,Social Studies,1.000
+World History 10,World Geography 10-A Honors,1047,Social Studies,1.000
+World History 10,World Geography 10-B Honors,1048,Social Studies,1.000
+World History 10,World History 10-A,1050,Social Studies,1.000
+World History 10,World History 10-B,1051,Social Studies,1.000
+World History 10,World History 10-A Honors,1052,Social Studies,1.000
+World History 10,World History 10-B Honors,1053,Social Studies,1.000
+World History 10,Sheltered Content WorldHist A:Bgr/Intermed,1073,Social Studies,1.000
+World History 10,Sheltered Content WorldHist B: Bgr/Intermed,1074,Social Studies,1.000
+World History 10,Sheltered Content Wld Hist B:Adv/Transitio,1075,Social Studies,1.000
+World History 10,Sheltered Content Wld Hist A:Adv/Transitio,1076,Social Studies,1.000
+World History 10,World History AP A,1102,Social Studies,1.000
+World History 10,World History AP B,1103,Social Studies,1.000
+World History 10,World History AP C,1104,Social Studies,1.000
+World History 10,World Studies 10A,1114,Social Studies,1.000
+World History 10,World Studies 10A Connections,1114CN,Social Studies,1.000
+World History 10,World Studies 10A EL SC A,1114E,Social Studies,1.000
+World History 10,World Studies 10A EL 4/5,1114E45,Social Studies,1.000
+World History 10,World Studies 10A Online,1114L,Social Studies,1.000
+World History 10,World Studies 10B,1115,Social Studies,1.000
+World History 10,World Studies 10B Connections,1115CN,Social Studies,1.000
+World History 10,World Studies 10B EL SC B,1115E,Social Studies,1.000
+World History 10,World Studies 10B EL 4/5,1115E45,Social Studies,1.000
+World History 10,World Studies 10B Online,1115L,Social Studies,1.000
+World History 10,World Studies 10C Connections,1120,Social Studies,1.000
+World History 10,World History 10 EL 2/3 A,61386,Social Studies,1.000
+World History 10,World History 10 EL 2/3 B,61387,Social Studies,1.000
+World History 10,World History 10 EL 4/5 A,61388,Social Studies,1.000
+World History 10,World History 10 EL 4/5 B,61389,Social Studies,1.000
