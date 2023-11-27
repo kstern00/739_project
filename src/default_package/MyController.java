@@ -1,5 +1,6 @@
 package full_stack.demo;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 import org.springframework.http.ResponseEntity;
@@ -13,7 +14,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class MyController {
 
     private final DataService dataService;
-    private final String courseNames [] = {"English", "Math", "Social Studies", "Science", "Physical Education", "Health"};
+	private final static String courseNames [] = {"English", "Math", "Social Studies", "Science", "Physical Education", "Health"};
+
+
 
     public MyController(DataService d){
         this.dataService = d;
@@ -29,6 +32,9 @@ public class MyController {
         ArrayList<Student> sData = new ArrayList<Student>();
         ArrayList<Courses> courseList = new ArrayList<Courses>();
         ArrayList<Requirements> reqList = new ArrayList<Requirements>();
+		//ArrayList<ReqFinder> courseFinder = new ArrayList<>();
+		//ArrayList<ReqFinder> reqListFinder = new ArrayList<>();
+
 
         String missingReq = "", results="";
 		int gd, count = 0;
@@ -37,65 +43,33 @@ public class MyController {
         courseList = dataService.getCourseData();
         reqList = dataService.getReqData();
 
+		ArrayList<Serializable> cList = new ArrayList<>();
+		for(Courses c: courseList){
+			cList.add(c);
+		}
+
+		ArrayList<Serializable> rList = new ArrayList<>();
+		for(Requirements r: reqList){
+			rList.add(r);
+		}
+
+
 		ArrayList<Courses> studentCourses;
 
         for(Student s: sData) {
 			gd = s.getGrade();
 			int[] reqs = {0,0,0,0,0};
 			studentCourses = new ArrayList<Courses>(s.getCourses());
-			for(Requirements r: reqList) {
-				if(r.getGrade()==gd) {
-					//determine which department it is looking at
-					if(r.getDepartment().equals("English")) {
-						reqs[0]+=courseTracker(r.getCourseID(), studentCourses);	
-					}
-					else if(r.getDepartment().equals("Math")) {
-						reqs[1]+=courseTracker(r.getCourseID(), studentCourses);
-					}
-					else if(r.getDepartment().equals("Social Studies")) {
-						reqs[2]+=courseTracker(r.getCourseID(), studentCourses);	
-					}
-					else if(r.getDepartment().equals("Science")) {
-						reqs[3]+=courseTracker(r.getCourseID(), studentCourses);	
-					}
-					else if(r.getDepartment().equals("Physical Education") || r.getDepartment().equals("Health")) {
-						reqs[0]+=courseTracker(r.getCourseID(), studentCourses);	
-					}		
+
+			reqs=findRequirement(cList, reqs, studentCourses);
+			reqs=findRequirement(rList, reqs, studentCourses);
+
+			for(int i = 0; i<5; i++){
+				if(reqs[0]<2) {
+					missingReq+=courseNames[i] + "\n";
 				}
 			}
-			//if it doesn't find the courses in the requirements list, could still be okay
-			for(Courses c: courseList) {
-				if(c.getDepartment().equals("English")) {
-					reqs[0]+=courseTracker(c.getCourseID(), studentCourses);	
-				}
-				else if(c.getDepartment().equals("Math")) {
-					reqs[1]+=courseTracker(c.getCourseID(), studentCourses);
-				}
-				else if(c.getDepartment().equals("Social Studies")) {
-					reqs[2]+=courseTracker(c.getCourseID(), studentCourses);	
-				}
-				else if(c.getDepartment().equals("Science")) {
-					reqs[3]+=courseTracker(c.getCourseID(), studentCourses);	
-				}
-				else if(c.getDepartment().equals("Physical Education") || c.getDepartment().equals("Health")) {
-					reqs[0]+=courseTracker(c.getCourseID(), studentCourses);	
-				}		
-			}
-			if(reqs[0]<2) {
-				missingReq+="English Credits\n";
-			}
-			if(reqs[1]<2) {
-				missingReq+="Math Credits\n";
-			}
-			if(reqs[2]<2) {
-				missingReq+="Social Studies Credits\n";
-			}
-			if(reqs[3]<2) {
-				missingReq+="Science Credits\n";
-			}
-			//if(reqs[4]<1) {
-			//	missingReq+="PE or Health Credits\n";
-			//}
+
 			
 			if(missingReq.length()>2) {
 				missingReq = s.getInfo() + "\n" + missingReq;
@@ -115,18 +89,83 @@ public class MyController {
         ArrayList<Courses> courseList = new ArrayList<Courses>();
         ArrayList<Requirements> reqList = new ArrayList<Requirements>();
 
-        String missingReq = "", results="";
-		int gd;
-		
-        sData = dataService.getStudentData();
+        String results="", failedReq="";
+		boolean failFlag = false;
+
+
+		sData = dataService.getStudentData();
         courseList = dataService.getCourseData();
         reqList = dataService.getReqData();
+
+		ArrayList<Serializable> cList = new ArrayList<>();
+		for(Courses c: courseList){
+			cList.add(c);
+		}
+
+		ArrayList<Serializable> rList = new ArrayList<>();
+		for(Requirements r: reqList){
+			rList.add(r);
+		}
 
 		ArrayList<Courses> studentCourses;
 
         for(Student s: sData) {
-			gd = s.getGrade();
 
+			
+			studentCourses = new ArrayList<Courses>(s.getCourses());
+			for(Courses c: studentCourses){
+				if(c.getCourseGrade().equals("F")){
+
+					int[] reqsC = {0,0,0,0,0};
+					int[] reqsR = {0,0,0,0,0};
+
+					reqsC=findRequirement(cList, reqsC, studentCourses);
+					reqsR=findRequirement(rList, reqsR, studentCourses);
+
+					if(sumArray(reqsC)>0 ||sumArray(reqsR)>0 ){
+						failFlag = true;
+					}
+
+					if(failFlag){
+						failedReq+="Course: " + c.getTitle() + " Course ID: " + c.getCourseID() + "\n";
+						failedReq= s.getInfo() + "\n" + failedReq;
+						//System.out.println(missingReq);
+						results = results + failedReq + "\n";
+					}
+					failFlag = false;
+					failedReq="";
+					
+				}
+			}
+		}
+
+			return ResponseEntity.ok(results);
+	}
+
+
+	public static int[] findRequirement(ArrayList<Serializable> obj, int[] req, ArrayList<Courses> studentCourses) {
+		ReqFinder reqFinder = null; 
+	
+		for (Serializable o : obj) {
+			if (o instanceof Courses) {
+				reqFinder = (Courses) o; // Cast only once for Courses
+	
+			} else if (o instanceof Requirements) {
+				reqFinder = (Requirements) o; // Cast only once for Requirements
+			}
+	
+			if (reqFinder != null) { // Check if reqFinder is not null
+				for (int i = 0; i < 5; i++) {
+					if (reqFinder.getDepartment().equals(courseNames[i])) {
+						req[i] += courseTracker(reqFinder.getCourseID(), studentCourses);
+					}
+				}
+			}
+		}
+	
+		return req;
+	}
+	
 
 
     	//finds if class requirement exists in student's list
@@ -148,6 +187,16 @@ public class MyController {
 		}
 		
 		return 0;
+	}
+
+	public static int sumArray(int [] arr)
+	{
+		int sum = 0;
+		for(int i = 0; i<5; i++){
+			sum+=arr[i];
+		}
+
+		return sum;
 	}
 
 }
